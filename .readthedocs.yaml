@@ -1,5 +1,5 @@
 # Read the Docs configuration file
-# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+# See https://readthedocs.io for details
 
 # Required
 version: 2
@@ -14,10 +14,7 @@ build:
 mkdocs:
    configuration: mkdocs.yml
 
-# Optionally, but recommended,
-# declare the Python requirements required to build your documentation
-# See https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
-# python:
-#    install:
-#    - requirements: docs/requirements.txt
-       
+# Povolení instalace doplňků ze souboru requirements.txt
+python:
+   install:
+   - requirements: requirements.txt
