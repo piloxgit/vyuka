@@ -9,7 +9,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Project layoutx
 
     mkdocs.yml    # The configuration file.
     docs/
