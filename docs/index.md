@@ -1,4 +1,4 @@
-# Welcome to MkDocs MkDocs MkDocs
+# Welcome
 # Test
 ## Test
 ### Test
