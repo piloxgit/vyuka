@@ -8,7 +8,7 @@
 
 [15. Mechanické a optické paměti?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDj7Uxs-GNTQ4_j60C1OZO5AX5GpptT3gpEVYV01G9GA5s?e=EndTzB)
 
-[16. Tiskárny?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAsGBQ1fVEySqWWcG8IteswAbJA3yPlRQ_46GRVUAUWwpY?e=SSdZF8)
+[16. Tiskárny](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDKfD_RPnLtRrxh2WO89ox6AXnS2fXU1s-BQ-sS2Za_KnU?e=vQXdiH)
 
 [17. Zobrazovače?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQC76g9cQQWzRoQjQp6dHZL7AT5zZJU633btoG5hC54dTNw?e=CR4XfJ)
 
