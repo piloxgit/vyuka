@@ -8,3 +8,5 @@ nav:
   - Úvod: index.md
   - Mechatronika:
     - Výukové prezentace: mech_pptx.md
+  - Hardware:
+    - HW IT4: hw_it4.md
