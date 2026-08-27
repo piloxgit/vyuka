@@ -1,8 +1,10 @@
-site_name: Výuka
+site_name: SŠPU
 theme:
   name: material
+  logo: images/skola-logo.png
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Úvod: index.md
-  - První kroky: instalace.md
-  - Podrobný návod: navod.md
-  - Mechatronika: mech.md
+  - Mechatronika:
+    - Výukové prezentace: mech_pptx.md
