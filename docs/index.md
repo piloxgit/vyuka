@@ -1,20 +1,5 @@
-# test rebuildu
-# Welcome
-# Test
-## Test
-### Test
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[Řád učebny výpočetní techniky](https://opava-my.sharepoint.com/:b:/g/personal/godovsky_sspu-opava_cz/IQCfy_qmbKt7RYPNTJU1AXNVAfpQU9vnC8WUVXi-i6bnWKA?e=BjHEpL)
 
-## Commands
+[Úvodní prezentace](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCxbwWUAniXS5qZFvMxVQsAAR60uee6-PM5t7__5wCTAeI?e=lBixVv)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layoutx
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Emerita](images/mk.jpg)
