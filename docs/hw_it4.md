@@ -4,9 +4,9 @@
 
 [13. Jednočipové mikrokontrolery](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQC3yL8IHRWHQIawAacNAuLGAd9aQ4wdexg4zskRBE3xd1I?e=s9SyYR)
 
-[14. Polovodičové paměti?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA3-uOoUmfgTJMRbAeIj3PqATI2cLaTzI6V5q4US9A5Ryw?e=haGBeG)
+[14. Polovodičové paměti](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCBb3JPlgEOT6Zv0HEssJhpATdXKk8IIux6YSL82XXcSJM?e=gsfgBa)
 
-[15. Mechanické a optické paměti?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDj7Uxs-GNTQ4_j60C1OZO5AX5GpptT3gpEVYV01G9GA5s?e=EndTzB)
+[15. Mechanické a optické paměti](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDg9toBCM7CR4YIlp7OMY22AbJs5sCaEqvEgyVzsMf-KD0?e=pummqY)
 
 [16. Tiskárny](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDKfD_RPnLtRrxh2WO89ox6AXnS2fXU1s-BQ-sS2Za_KnU?e=vQXdiH)
 
