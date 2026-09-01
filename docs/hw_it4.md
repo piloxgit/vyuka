@@ -10,11 +10,11 @@
 
 [16. Tiskárny](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDKfD_RPnLtRrxh2WO89ox6AXnS2fXU1s-BQ-sS2Za_KnU?e=vQXdiH)
 
-[17. Zobrazovače?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQC76g9cQQWzRoQjQp6dHZL7AT5zZJU633btoG5hC54dTNw?e=CR4XfJ)
+[17. Zobrazovače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQC1st33KXQfSLuiSOGrOQRtAQuHjMXuVecDanFKAxCyJQo?e=Kzj2vX)
 
-[18. Rozhraní počítače?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBk1kb4MpdcRof5_a8vK7H5AQqjQra3EqGHpn8O1yUe-es?e=tw0zLA)
+[18. Rozhraní počítače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA1Gyoyg_z4Qqd3usB3-HWqAf9F5cGtR1Z6mMOlzb4tB7E?e=a5QHTd)
 
-[19. Vstupní zařízení počítače?](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBECHupZSqxQaFkuF_9XbNVAWxCzZe6u8CGV-_VLC8EdcM?e=Y3jTYt)
+[19. Vstupní zařízení počítače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDra08zMBOeQrYohAp4YgEbAYjzqJELU5wCIw_sOj6wxsY?e=KePulg)
 
 [20. PLC](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA9kfj4DgZdRpES_fZOH9JCARpIQ9IlN-Svk_Jh-eJ7s98?e=J52rlT)
 
