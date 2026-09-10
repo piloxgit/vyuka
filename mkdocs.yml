@@ -13,4 +13,6 @@ nav:
   - Součástky:
     - Breadboard: breadboard.md
     - Rezistory: rezistory.md
+  - Arduino:
+    - DHT11: arduino/dht11.md
   
