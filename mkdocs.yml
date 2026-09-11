@@ -11,8 +11,13 @@ nav:
   - Hardware:
     - HW IT4: hw_it4.md
   - Součástky:
-    - Breadboard: breadboard.md
-    - Rezistory: rezistory.md
+    - Breadboard: soucastky/breadboard.md
+    - Rezistory: soucastky/rezistory.md
+    - Diody: soucastky/diody.md
   - Arduino:
     - DHT11: arduino/dht11.md
+  - PLC:
+    - PLC: plc/plc_popis.md
+    - Úkoly: plc/plc_ukoly.md
+
   

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+  <rect width="900" height="430" fill="#ffffff"/>
+  <text x="450" y="46" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Jak poznat anodu a katodu LED</text>
+
+  <path d="M360 120 Q450 65 540 120 L540 250 Q450 300 360 250 Z" fill="#ef4444" opacity="0.78" stroke="#991b1b" stroke-width="5"/>
+  <rect x="360" y="226" width="180" height="28" fill="#dc2626" opacity="0.9"/>
+  <line x1="410" y1="252" x2="410" y2="385" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+  <line x1="490" y1="252" x2="490" y2="335" stroke="#64748b" stroke-width="12" stroke-linecap="round"/>
+
+  <line x1="285" y1="345" x2="392" y2="345" stroke="#16a34a" stroke-width="5"/>
+  <polygon points="392,345 374,335 374,355" fill="#16a34a"/>
+  <text x="270" y="326" text-anchor="end" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#15803d">ANODA (+)</text>
+  <text x="270" y="358" text-anchor="end" font-family="Arial, sans-serif" font-size="21" fill="#374151">delší vývod</text>
+
+  <line x1="508" y1="315" x2="620" y2="315" stroke="#2563eb" stroke-width="5"/>
+  <polygon points="508,315 526,305 526,325" fill="#2563eb"/>
+  <text x="638" y="298" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#1d4ed8">KATODA (−)</text>
+  <text x="638" y="330" font-family="Arial, sans-serif" font-size="21" fill="#374151">kratší vývod</text>
+
+  <line x1="545" y1="235" x2="685" y2="190" stroke="#2563eb" stroke-width="4"/>
+  <polygon points="545,235 562,222 567,239" fill="#2563eb"/>
+  <text x="700" y="181" font-family="Arial, sans-serif" font-size="20" fill="#374151">Zploštělá strana pouzdra</text>
+  <text x="700" y="207" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1d4ed8">také označuje katodu</text>
+</svg>

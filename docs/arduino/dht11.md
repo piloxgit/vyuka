@@ -5,7 +5,7 @@ Krátký návod, jak připojit senzor DHT11 k Arduinu, přidat knihovnu Mark Ruy
 Knihovna `markruys/DHT` podporuje DHT11 i DHT22, umí automaticky rozpoznat typ senzoru a používá jednoduché rozhraní `setup()`, `getHumidity()` a `getTemperature()`.
 
 
-![Pinout senzoru DHT11 s popisem pinů](https://agents-download.skywork.ai/image/rt/fc077aafc691e945f954b169445a2a39.jpg)
+![Pinout senzoru DHT11 s popisem pinů](../images/dht11-pinout.jpg)
 
 ## Přidání knihovny do `platformio.ini`
 

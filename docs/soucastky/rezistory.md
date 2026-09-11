@@ -21,7 +21,7 @@ kde:
 
 ## Schématická značka rezistoru
 
-![Schématická značka rezistoru](images/rezistor-schemata.webp)
+![Schématická značka rezistoru](../images/rezistor-schemata.webp)
 
 ## Rozdělení rezistorů
 
@@ -45,11 +45,11 @@ Jejich odpor lze nastavit pohybem jezdce nebo otáčením ovládacího prvku.
 
 Rozměry rezistoru často souvisejí s jeho dovoleným výkonem. Větší výkonové rezistory mohou odvádět více tepla, a proto bývají větší.
 
-![Axiální rezistory různých hodnot a barev](images/axialni-rezistory.jpg)
+![Axiální rezistory různých hodnot a barev](../images/axialni-rezistory.jpg)
 
-![Různobarevné výkonové rezistory](images/vykonove-rezistory.jpg)
+![Různobarevné výkonové rezistory](../images/vykonove-rezistory.jpg)
 
-![Velký drátový rezistor](images/dratovy-rezistor.jpg)
+![Velký drátový rezistor](../images/dratovy-rezistor.jpg)
 
   
 
@@ -75,7 +75,7 @@ Rozměry rezistoru často souvisejí s jeho dovoleným výkonem. Větší výkon
 
 ## Barevné značení rezistorů
 
-![Barevný kód rezistorů](images/barevny-kod-rezistoru.jpg)
+![Barevný kód rezistorů](../images/barevny-kod-rezistoru.jpg)
 
   
 
@@ -93,9 +93,9 @@ Potenciometr se používá například:
 
   
 
-![Schéma potenciometru](images/potenciometr-schemata.webp)
+![Schéma potenciometru](../images/potenciometr-schemata.webp)
 
-![Ukázky reostatů a posuvných odporů](images/reostaty.jpg)
+![Ukázky reostatů a posuvných odporů](../images/reostaty.jpg)
 
   
 
@@ -103,17 +103,17 @@ Potenciometr se používá například:
 
   
 
-![Schéma trimru](images/trimr-schemata.webp)
+![Schéma trimru](../images/trimr-schemata.webp)
 
-![Různé potenciometry](images/potenciometry.jpg)
+![Různé potenciometry](../images/potenciometry.jpg)
 
-![Různé druhy trimrů](images/trimry.jpg)
+![Různé druhy trimrů](../images/trimry.jpg)
 
 ## Aripot  
 
   
 
-![Aripot](images/aripot.webp)
+![Aripot](../images/aripot.webp)
 
 Spojování rezistorů
 
@@ -123,7 +123,7 @@ Při sériovém zapojení jsou rezistory zapojeny za sebou.
 
   
 
-![Sériové zapojení rezistorů](images/seriove-zapojeni.webp)
+![Sériové zapojení rezistorů](../images/seriove-zapojeni.webp)
 
 ## Paralelní zapojení
 
@@ -131,4 +131,4 @@ Při paralelním zapojení jsou oba konce rezistorů připojeny ke stejným dvě
 
 ##   
 
-![Paralelní zapojení rezistorů](images/paralelni-zapojeni.webp)
+![Paralelní zapojení rezistorů](../images/paralelni-zapojeni.webp)

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="610" viewBox="0 0 960 610">
+  <rect width="960" height="610" fill="#ffffff"/>
+  <text x="480" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">Zjednodušená voltampérová charakteristika LED</text>
+
+  <line x1="105" y1="510" x2="880" y2="510" stroke="#111827" stroke-width="3"/>
+  <line x1="105" y1="510" x2="105" y2="90" stroke="#111827" stroke-width="3"/>
+  <polygon points="880,510 860,500 860,520" fill="#111827"/>
+  <polygon points="105,90 95,110 115,110" fill="#111827"/>
+
+  <g font-family="Arial, sans-serif" font-size="18" fill="#374151">
+    <text x="94" y="538">0</text>
+    <text x="285" y="538">1</text>
+    <text x="477" y="538">2</text>
+    <text x="669" y="538">3</text>
+    <text x="854" y="538">4 V</text>
+    <text x="64" y="515">0</text>
+    <text x="48" y="410">5</text>
+    <text x="38" y="305">10</text>
+    <text x="38" y="200">15</text>
+    <text x="38" y="97">20 mA</text>
+    <text x="700" y="575" font-size="21">Napětí na LED</text>
+    <text transform="translate(25 365) rotate(-90)" font-size="21">Proud LED</text>
+  </g>
+
+  <g stroke="#d1d5db" stroke-width="1">
+    <line x1="105" y1="405" x2="860" y2="405"/>
+    <line x1="105" y1="300" x2="860" y2="300"/>
+    <line x1="105" y1="195" x2="860" y2="195"/>
+    <line x1="297" y1="105" x2="297" y2="510"/>
+    <line x1="489" y1="105" x2="489" y2="510"/>
+    <line x1="681" y1="105" x2="681" y2="510"/>
+  </g>
+
+  <path d="M105 510 C330 510 405 510 435 500 C460 490 480 445 492 365 C505 275 520 175 548 105" fill="none" stroke="#dc2626" stroke-width="7" stroke-linecap="round"/>
+  <path d="M105 510 C445 510 535 510 565 501 C590 493 610 450 624 370 C639 280 654 180 682 105" fill="none" stroke="#16a34a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M105 510 C520 510 640 510 675 501 C700 493 722 452 738 373 C755 285 770 183 800 105" fill="none" stroke="#2563eb" stroke-width="7" stroke-linecap="round"/>
+
+  <g font-family="Arial, sans-serif" font-size="22" font-weight="700">
+    <text x="540" y="140" fill="#dc2626">červená</text>
+    <text x="680" y="140" fill="#16a34a">zelená</text>
+    <text x="805" y="140" fill="#2563eb">modrá</text>
+  </g>
+  <text x="480" y="598" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#6b7280">Orientační průběh: proud začne prudce růst až po dosažení propustného napětí dané barvy.</text>
+</svg>
