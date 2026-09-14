@@ -16,6 +16,7 @@ nav:
     - Diody: soucastky/diody.md
   - Arduino:
     - DHT11: arduino/dht11.md
+    - 7 segment: arduino/sev_seg.md
   - PLC:
     - PLC: plc/plc_popis.md
     - Úkoly: plc/plc_ukoly.md

@@ -11,5 +11,7 @@
 
 [2. přídržný kontakt](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQC76T9orCuWRqYCrbFTULfjAeGpVZCm2qx0JiDkbkpx68Y?e=PZHKCe)
 
+[3. časovače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCEzkqSeDtXSpQIsT07Cu1WAUlDTTLCOny1fYBprvY-y8g?e=m27Dr3)
+
 
 
