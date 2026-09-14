@@ -9,9 +9,9 @@ Kondenzátor **uchovává elektrický náboj** a používá se například k vyh
 
 ### Kondenzátory
 
-![Elektrolytické kondenzátory](https://agents-download.skywork.ai/image/rt/4ef44ae35da76be7783ddc7b501f609f.jpg)
+![Elektrolytické kondenzátory](../images/kondenzatory-elektrolyticke.jpg)
 
 ### Keramický kondenzátor
 
-![Keramický diskový kondenzátor](https://agents-download.skywork.ai/image/rt/ccaca760f461fe7152faf1a7a8aef081.jpg)
+![Keramický diskový kondenzátor](../images/kondenzator-keramicky.jpg)
 
