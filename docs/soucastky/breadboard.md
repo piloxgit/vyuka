@@ -1,4 +1,4 @@
-# Základy práce s nepájivým kontaktním
+# Základy práce s nepájivým kontaktním polem
 
 Nepájivé kontaktní pole, často označované jako **breadboard**, slouží k rychlému sestavování a zkoušení elektronických obvodů bez pájení. Součástky a propojovací drátky se jednoduše zasunují do otvorů.
 
