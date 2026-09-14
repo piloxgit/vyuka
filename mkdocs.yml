@@ -14,6 +14,10 @@ nav:
     - Breadboard: soucastky/breadboard.md
     - Rezistory: soucastky/rezistory.md
     - Diody: soucastky/diody.md
+    - Kondenzátory: soucastky/kondenzatory.md
+    - Pájení:
+        - Nástroje a materiál: soucastky/pajeni_pajky.md
+        - Pájení: soucastky/pajeni.md
   - Arduino:
     - DHT11: arduino/dht11.md
     - 7 segment: arduino/sev_seg.md

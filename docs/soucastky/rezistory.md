@@ -132,3 +132,18 @@ Při paralelním zapojení jsou oba konce rezistorů připojeny ke stejným dvě
 ##   
 
 ![Paralelní zapojení rezistorů](../images/paralelni-zapojeni.webp)
+
+# Fotorezistor (LDR)
+
+Je pasivní elektronická součástka, jejíž elektrický odpor se mění v závislosti na intenzitě dopadajícího světla.
+
+### 💡 Princip fungování
+* **Úplná tma:** Dosahuje velmi vysokého odporu. Proud obvodem téměř neprotéká.
+* **Osvětlení:** Odpor prudce klesá. Součástka začne propouštět proud.
+
+### 🛠️ Typické využití
+* **Soumrakové spínače:** Automatické zapínání pouličního nebo zahradního osvětlení.
+* **Optické senzory:** Detekce přítomnosti objektů nebo měření intenzity světla (např. v alarmových systémech).
+* **Spotřební elektronika:** Automatická regulace jasu displejů nebo buzení u budíků.
+
+![fotorezistor](../images/fotorezistor.png)
