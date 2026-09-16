@@ -13,5 +13,7 @@
 
 [3. časovače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCEzkqSeDtXSpQIsT07Cu1WAUlDTTLCOny1fYBprvY-y8g?e=m27Dr3)
 
+[4. čítače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAKsrkvsEhEQLKSqYnqYkPEAfWBPa7ilbNkxEFD01eZTaE?e=Yza5B1)
+
 
 
