@@ -25,5 +25,5 @@ nav:
   - PLC:
     - PLC: plc/plc_popis.md
     - Úkoly: plc/plc_ukoly.md
-
-  
+  - Ostatní:
+    - Videa: ostatni/videa.md
