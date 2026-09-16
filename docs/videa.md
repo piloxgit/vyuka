@@ -2,7 +2,7 @@
 
 [Olejové filtry](https://www.youtube.com/watch?v=-huJG5ZE980&ab_channel=DiscoveringSkills)
 
-[Olejové filtry](youtube.com/watch?v=vlCMgk_d528&ab_channel=AroundtheWorld)
+[Olejové filtry](https://www.youtube.com/watch?v=vlCMgk_d528&ab_channel=AroundtheWorld)
 
 [Akumulátor](https://www.youtube.com/watch?v=kNGg0P7B5fI)
 
