@@ -6,7 +6,11 @@
 
 [4. sekvenční řízení - míchání a ohřev v nádrži](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQCntf2DA3WaRbzhZoqF02rdAYLTdIFcVUkmGcMPpUdNReg?e=W4YabI)
 
+[PPTX](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQD-0bHaRzP1Q6CuWnwRyQlVAVRo7zQhLVzqaYKMIIMGerQ?e=cUBEKE)
+
 [5. nádrže - vyprazdňování nádrží](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQDGHeR_j1F-TbSVmltGy-4UAQgVjjZICPnWXLIU9ChuJxs?e=CQIREN)
+
+[PPTX](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCayF5SJr_ZT5zsPQUNLgTsAVGHcDqKM9pJLpgBJ0ErmLQ?e=Bh1sfe)
 
 [6. set_bf](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQAGzem9HQusRp3a-tZixmEZAXwoY8hwzPs0Nyi_R2cqnng?e=03JkKk)
 
