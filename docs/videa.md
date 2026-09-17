@@ -8,5 +8,15 @@
 
 [Svařování aut](https://www.youtube.com/watch?v=Lhd620gLU4w)
 
+[Krávy](https://www.youtube.com/watch?v=2FFQWH2XF70&ab_channel=Fakultazem%C4%9Bd%C4%9Blsk%C3%A1atechnologick%C3%A1JU)
+
+[Papriky](https://www.youtube.com/watch?v=m0IcEjgUDVQ&ab_channel=OmronIndustrialAutomationEMEA)
+
+[Květiny](https://www.youtube.com/watch?v=I0PCSH2n8YU&ab_channel=AHDBHorticulture)
+
+[]()
+
+[]()
+
 []()
 
