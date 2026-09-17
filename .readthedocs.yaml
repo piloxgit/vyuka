@@ -14,13 +14,6 @@ build:
 mkdocs:
    configuration: mkdocs.yml
 
-markdown_extensions:
-  - meta
-  
-plugins:
-  - search
-  - encryptcontent
-
 # Povolení instalace doplňků ze souboru requirements.txt
 python:
    install:
