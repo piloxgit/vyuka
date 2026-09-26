@@ -10,7 +10,7 @@
 
 5. [Téma č. 11 (T_84991) Jističe](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCiuCl7a-l-TZi-qgHNqGi1AcTqf5rtdwa1WfNGMsB317s?e=JLYdSb)
 
-6. Téma č. 12 (T_38823) Spínače 
+6. [Téma č. 12 (T_38823) Spínače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBcbtWOofxLTIRJ3jHHSxzzARZpGqsITI7wGpFMln5vIs4?e=B2lkd7) 
 
 7. Téma č. 13 (T_91034) Relé a stykače 
 
