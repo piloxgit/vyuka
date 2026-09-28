@@ -12,7 +12,7 @@
 
 6. [Téma č. 12 (T_38823) Spínače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBcbtWOofxLTIRJ3jHHSxzzARZpGqsITI7wGpFMln5vIs4?e=B2lkd7) 
 
-7. Téma č. 13 (T_91034) Relé a stykače 
+7. [Téma č. 13 (T_91034) Relé a stykače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDYfk7yaX-QS5Yg3_EzrcgrASqXX8iNc_6z5MXArdpsKvk?e=9ihvYg) 
 
 8. Téma č. 26 (T-60936) Sítě a přípojky nn 
 
@@ -20,7 +20,7 @@
 
 10. Téma č. 23 (T-19217) Elektrárny   
 
-11. Téma č. 19 (T_61491) Rezistory, kondenzátory, cívky 
+11. [Téma č. 19 (T_61491) Rezistory, kondenzátory, cívky](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA35wJZFUt0S4_sX2Mu8NyiAYDBJiOegDmceP93wGdVO_w?e=LYISeX)
 
 12. Téma č. 24 (T_34953) Alternativní zdroje pro výrobu el. energie 
 
@@ -38,7 +38,7 @@
 
 19. Téma č. 41 (T_44352) Elektroměrové rozvaděče a přípojkové skříně 
 
-20. Téma č. 43 (T_98462) Kabely a vodiče 
+20. [Téma č. 43 (T_98462) Kabely a vodiče](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCLcz8DHwAZRrGTtu7RoTflAQxf0IF-ikGp7wf_F1-3dQM?e=ttlE9n) 
 
 21. Téma č. 47 (T_43464) Třídy elektrických předmětů 
 
