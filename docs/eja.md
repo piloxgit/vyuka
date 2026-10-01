@@ -1,5 +1,11 @@
 # Témata pro ústní zkoušky
 
+
+[Zpracované otázky spolužáků ](https://opava-my.sharepoint.com/:f:/g/personal/godovsky_sspu-opava_cz/IgAXHAt_acYbQ6CtlmSOr2jhAeUqgo0jvw1C0CtoJg-ZTOE?e=nNnMcg)
+
+
+
+
 1. [Téma č. 1 (T_20992) Proudový chránič ](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCrnL4FVb4BSqout1I5z2lhAUpiemC_6GxqpMMJc7XOtjM?e=F18qam)
 
 2. [Téma č. 2 (T_68219) Diody a usměrňovače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAQ9ZGcf2oLToG23Aof_Wy4AXsuVEZJZE7VAUMqwH5YkTQ?e=cBZSaJ)
