@@ -1,0 +1,1 @@
+[Sdílené obrázky ](https://opava-my.sharepoint.com/:f:/g/personal/godovsky_sspu-opava_cz/IgCjR0tqGHQ_SKD6SJ7GTrETAdubMDXWrrLLYs5-w_-YNIk?e=3zuZqy)
