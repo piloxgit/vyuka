@@ -10,7 +10,7 @@
 
 2. [Téma č. 2 (T_68219) Diody a usměrňovače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAQ9ZGcf2oLToG23Aof_Wy4AXsuVEZJZE7VAUMqwH5YkTQ?e=cBZSaJ)
 
-3. Téma č. 9 (T_95623) Jistící a ochranné prvky 
+3. [Téma č. 9 (T_95623) Jistící a ochranné prvky](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCyWzRivfDST4Ae6IpoCbh9AZtiW7u9dlxoULSxQThJyYs?e=ZeZpA8)
 
 4. [Téma č. 10 (T_35431) Pojistky](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAJ4tOsFWw3RoSQEBg7O4dkAfzARtyG9wdetk-R58JSjSc?e=cHy2pG) 
 
