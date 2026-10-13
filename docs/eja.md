@@ -30,13 +30,13 @@
 
 12. Téma č. 24 (T_34953) Alternativní zdroje pro výrobu el. energie 
 
-13. Téma č. 25 (T_82159) Transformátory 
+13. [Téma č. 25 (T_82159) Transformátory](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAB8UbH_qV4QIAU5D1gTyZLAfuwIDVpwq_9moUNjChktDQ?e=ZfZgcY) 
 
 14. Téma č. 27 (T_98869) Elektroinstalace v obytných #budovách 
 
 15. Téma č. 29 (T_16332) Elektroinstalace v koupelnách 
 
-16. Téma č. 31 (T_8661) Světelné zdroje 
+16. [Téma č. 31 (T_8661) Světelné zdroje](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAA36xfKm-vQYj5g4-sbFGiAS8wku-nFFTnqXHh3tJ-IYA?e=fpgAD3)
 
 17. Téma č. 39 (T_47488) Schodišťové automaty a domovní zvonky 
 
@@ -48,7 +48,7 @@
 
 21. Téma č. 47 (T_43464) Třídy elektrických předmětů 
 
-22. Téma č. 49 (T_53250) Zářivková svítidla 
+22. [Téma č. 49 (T_53250) Zářivková svítidla](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQB8FTo2GxcnQ7WfRUscW9QVAatMtCF8QpyRSIRPixZ8-x8?e=EKKa6G) 
 
 23. Téma č. 50 (T_92950) Elektrické vytápění 
 
