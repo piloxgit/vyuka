@@ -18,5 +18,10 @@
 
 [9. Robotika](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAnI8BWnaqeRqA1ZsVidhU4AQrI-00rho52K-EKA19Geag?e=jgdcip)
 
+[10. Sinály](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCbR5Ui5fJhSb3-KaggKJjrAY6KLuB9wub3M7i1Lol8ONw?e=b4nbdK)
+
+[11. Klopné obvody](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBalE1BCi5zTL5Q9mFHwoPEAf-4FWl1BfjJrxO5Ww9LLq8?e=D24s6o)
+
+
 
 

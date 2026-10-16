@@ -18,7 +18,7 @@ nav:
     - Tranzistory: soucastky/tranzistory.md
     - Pájení:
         - Nástroje a materiál: soucastky/pajeni_pajky.md
-        - Pájení: soucastky/pajeni.md
+        - Technika pájení: soucastky/pajeni.md
   - Arduino:
     - DHT11: arduino/dht11.md
     - 7 segment: arduino/sev_seg.md
