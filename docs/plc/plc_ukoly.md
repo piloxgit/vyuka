@@ -22,6 +22,8 @@
 
 [10. parkoviště ](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQBPjIQZrMD1QJ9R-HQiTyY7ATyXU2HWBkIX8kJl7ksnhKE?e=BOsrRp)
 
+[10. JPG parkoviste](https://opava-my.sharepoint.com/:i:/g/personal/godovsky_sspu-opava_cz/IQATKKwgd28ARrjZ4mNeb6q0AbeGxpUX6oq_PCtIdNOZ1cM?e=mQ2y4k)
+
 []()
 
 []()
