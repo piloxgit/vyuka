@@ -20,7 +20,7 @@
 
 [9. časovače, set - třídička](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQBD17mZ3EGZRZA_bfipXbF7AVY-PgWU36gJedozpHY3QlE?e=EKE1ng)
 
-[]()
+[10. parkoviště ](https://opava-my.sharepoint.com/:w:/g/personal/godovsky_sspu-opava_cz/IQBPjIQZrMD1QJ9R-HQiTyY7ATyXU2HWBkIX8kJl7ksnhKE?e=BOsrRp)
 
 []()
 
