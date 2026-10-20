@@ -20,7 +20,7 @@
 
 7. [Téma č. 13 (T_91034) Relé a stykače](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQDYfk7yaX-QS5Yg3_EzrcgrASqXX8iNc_6z5MXArdpsKvk?e=9ihvYg) 
 
-8. Téma č. 26 (T-60936) Sítě a přípojky nn 
+8. [Téma č. 26 (T-60936) Sítě a přípojky nn](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCc3sqCCI3RTbjZzeDnYUEBAZOqdepm05p1feE9PYZRLwI?e=wepPAG)
 
 9. Téma č. 18 (T-75354) Základní zákony elektrotechniky 
 
@@ -52,6 +52,6 @@
 
 23. Téma č. 50 (T_92950) Elektrické vytápění 
 
-24. Téma č. 55 (T-20859) Sítě nn 
+24. [Téma č. 55 (T-20859) Sítě nn](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQD-JU7-twWqSZ3ZD3-T7HeOAfDUoN26-tXqiwRjStEvpMg?e=YOWC3P)
 
-25. Téma č. 58 (T_57839) Přípojky nízkého napětí 
+25. [Téma č. 58 (T_57839) Přípojky nízkého napětí](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA5_9JvZ7QyQ4BdrHWxZwkcAQVs6k848q201t2-CvN4TN4?e=du7bCO)
