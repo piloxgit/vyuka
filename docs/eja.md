@@ -24,15 +24,15 @@
 
 9. Téma č. 18 (T-75354) Základní zákony elektrotechniky 
 
-10. Téma č. 23 (T-19217) Elektrárny   
+10. [Téma č. 23 (T-19217) Elektrárny](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQB6J9qW_ognQIl7gk-1RSL0AYO7tqCIjihLP0s8HM447Is?e=1I9Mk8)   
 
 11. [Téma č. 19 (T_61491) Rezistory, kondenzátory, cívky](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQA35wJZFUt0S4_sX2Mu8NyiAYDBJiOegDmceP93wGdVO_w?e=LYISeX)
 
-12. Téma č. 24 (T_34953) Alternativní zdroje pro výrobu el. energie 
+12. [Téma č. 24 (T_34953) Alternativní zdroje pro výrobu el. energie](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBxrTnnZKAKQbSMwKZunFioAS0kzsIgoK2nXuPTSHfRyxs?e=wiaHr1) 
 
 13. [Téma č. 25 (T_82159) Transformátory](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQAB8UbH_qV4QIAU5D1gTyZLAfuwIDVpwq_9moUNjChktDQ?e=ZfZgcY) 
 
-14. Téma č. 27 (T_98869) Elektroinstalace v obytných #budovách 
+14. [Téma č. 27 (T_98869) Elektroinstalace v obytných #budovách](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQATb4K6VKleRqMBH90uKOPZAVzuFeAo7lwwvuwwX8NSB68?e=VNwXz2) 
 
 15. Téma č. 29 (T_16332) Elektroinstalace v koupelnách 
 
@@ -40,9 +40,9 @@
 
 17. Téma č. 39 (T_47488) Schodišťové automaty a domovní zvonky 
 
-18. Téma č. 40 (T_98507) Bytové rozvodnice 
+18. [Téma č. 40 (T_98507) Bytové rozvodnice](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCGqbjolwIbT50kY2FX5nzaAUGlz4uSaLZZX4L6Th0Njkk?e=0oFtBh) 
 
-19. Téma č. 41 (T_44352) Elektroměrové rozvaděče a přípojkové skříně 
+19. [Téma č. 41 (T_44352) Elektroměrové rozvaděče a přípojkové skříně](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQBcbFRYpJTCToLOuaaTWyreAZAvrMhXSpgLiq1spxH0LrQ?e=mO4cud) 
 
 20. [Téma č. 43 (T_98462) Kabely a vodiče](https://opava-my.sharepoint.com/:p:/g/personal/godovsky_sspu-opava_cz/IQCLcz8DHwAZRrGTtu7RoTflAQxf0IF-ikGp7wf_F1-3dQM?e=ttlE9n) 
 
